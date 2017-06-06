@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/BufferForm" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
